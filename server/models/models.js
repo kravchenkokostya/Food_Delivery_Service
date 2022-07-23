@@ -50,5 +50,5 @@ module.exports = {
 	Cart,
 	CartFood,
 	Food,
-	Store
+	Stores
 }
